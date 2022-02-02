@@ -45,7 +45,7 @@ public class MyFunctionalityTest {
     public void testGetTen() {
 
         MyFunctionality instance = new MyFunctionality();
-        assertEquals(11, instance.getTen());
+        assertEquals(12, instance.getTen());
 
     }
 
