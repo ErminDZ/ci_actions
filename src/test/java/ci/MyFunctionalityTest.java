@@ -46,7 +46,7 @@ public class MyFunctionalityTest {
 
         MyFunctionality instance = new MyFunctionality();
         assertEquals(12, instance.getTen());
-
+//hej
     }
 
 }
